@@ -1,0 +1,15 @@
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\bin\Debug\net7.0\Task_56.exe
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\bin\Debug\net7.0\Task_56.deps.json
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\bin\Debug\net7.0\Task_56.runtimeconfig.json
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\bin\Debug\net7.0\Task_56.dll
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\bin\Debug\net7.0\Task_56.pdb
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.csproj.AssemblyReference.cache
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.AssemblyInfoInputs.cache
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.AssemblyInfo.cs
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.csproj.CoreCompileInputs.cache
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.dll
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\refint\Task_56.dll
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.pdb
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\Task_56.genruntimeconfig.cache
+C:\Users\Notnik_kg\Desktop\ДЗ по С#\Семинар 8.ДЗ C#\HomeWork_To8\Task_56\obj\Debug\net7.0\ref\Task_56.dll
